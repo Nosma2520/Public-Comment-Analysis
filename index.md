@@ -1,16 +1,4 @@
-<!DOCTYPE html>
-<html>
-<body>
+## Choose your desired corpus:
+* [State Government](https://nosma2520.github.io/Public-Comment-Analysis/)
+* [Corporations/Organizations](https://nosma2520.github.io/Public-Comment-Analysis/)
 
-<p>Choose your desired corpus:</p>
-
-<form>
-  <input type="radio" id="state" name="corpus" value=STATE">
-  <label for="state">State Government Companies</label><br>
-  <input type="radio" id="corp" name="corpus" value="CORPORATIONS">
-  <label for="corp">Corporations/Organizations</label><br>
-</form>
-
-
-</body>
-</html>
